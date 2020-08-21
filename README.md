@@ -7,7 +7,7 @@
 
 ## Definition
 
-This project uses Convolutional neural network to classify 24 different Hand Gesture that represent alphabetic letter from A-Z. the Classification is Multi-class Classification. Image augmented techniques are used in this project.
+This project uses Convolutional neural network to classify 24 different Hand Gesture that represents alphabetic letters from A-Z. the Classification is Multi-class Classification. Image augmented techniques are used in this project.
 
 
 The dataset of this project found [here](https://www.kaggle.com/datamunge/sign-language-mnist)
